@@ -93,7 +93,9 @@ const Header: React.FC<HeaderProps> = ({ children, className }) => {
             >
                 <>
                     <div>
-                        <Button />
+                        <Button>
+                            Sign up!
+                        </Button>
                     </div>
                 </>
         </div>
